@@ -1,8 +1,17 @@
 #include <stdio.h>
 
-int main()
-{
-    printf("Hello World");
+#define whatIsThis 0
 
-    return 0;
+void main(
+
+
+
+){
+   
+    
+    puts
+        
+        ("Hello World")                         ;
+
+    ;;;;;;;;;;;;;return whatIsThis;
 }
