@@ -2,13 +2,13 @@
 
 int main()
 {
-	int counter = 10;
+	int countDownCounter = 10;
 
 	do {
-		printf("Counter: %d\n", counter);
-		counter--;
+		printf("Counter: %d\n", countDownCounter);
+		countDownCounter--;
 		
-	} while (counter >= 1);
+	} while (countDownCounter >= 1);
 
 	printf("Takeoff");
 
