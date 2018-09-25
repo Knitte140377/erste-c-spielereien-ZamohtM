@@ -2,11 +2,11 @@
 
 int main()
 {
-	int counter = 1;
+	int countUpCounter = 1;
 
-	while (counter <= 100) {
-		printf("Counter: %d\n", counter);
-		counter++;
+	while (countUpCounter <= 100) {
+		printf("Counter: %d\n", countUpCounter);
+		countUpCounter++;
 	}
 	printf("Takeoff");
 	return 0;
