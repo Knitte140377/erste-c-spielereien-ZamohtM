@@ -10,7 +10,7 @@ int main()
 		countDownCounter--;
 	}
 
-	printf("Takeoff");
+	printf("Takeoff!");
 
 	return 0;
 }
